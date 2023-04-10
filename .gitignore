@@ -1,3 +1,4 @@
 *.pdf
 *.md
 /.ipynb_checkpoints
+.DS_Store
